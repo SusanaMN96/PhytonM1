@@ -1,0 +1,6 @@
+print(True > False)
+print(True < False)
+print(9 % 6 % 2)
+print(21//2)
+print(2**9)
+print("Python version: " + "2+2")
